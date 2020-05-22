@@ -1,0 +1,18 @@
+{
+    "token": "mfa.JvtNGXKzDLJvWr5f51b2p_dvjwdaw5TRrRF7m0FYmfHlozgn9KAKar1zfyiZO-5QOekLliCsJmqrnNeomny1",
+    "password": "password-here",
+    "prefix": "$",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "privnote_sniper": true,
+
+    "stream_url": "https://twitch.tv/nigga",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
